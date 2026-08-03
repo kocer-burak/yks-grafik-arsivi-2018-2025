@@ -1,5 +1,5 @@
 
-# yks-grafik-arsivi-2018-2025
+yks-grafik-arsivi-2018-2025
 
 # YKS Üniversite & Bölüm Sıralama Grafikleri Arşivi (2018-2025)
 
