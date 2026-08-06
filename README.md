@@ -54,6 +54,13 @@ Arşiv kendi içerisinde 2 farklı kategoride şeklinde sıralanmıştır
 
 Son 8 yılın başarı sıralaması çizgi grafikleri, yıllara göre kontenjan değişimleri, puan türleri ve 2025 yılına ait cinsiyet sayıları ve K/E oranlar, ilgili üniversitenin logo ve renkleriyle görünümleri
 
+## Ham Veri Seti İçeriği
+
+[YGS-LYS(2015-2017)_YKS(2018-2025)_HamVeriSeti.xlsx](https://github.com/kocer-burak/yks-grafik-arsivi-2018-2025/blob/main/YGS-LYS(2015-2017)_YKS(2018-2025)_HamVeriSeti.xlsx)
+
+osym_kodu	uni_hex_kodu	uni_id	sehir	ilce	uni_turu	uni_adi	fakulte_adi	puan_turu	bolum_adi	ogrenim_dili	ogrenim_suresi	burs_orani_adi	birim_ek_turu	birim_turu_adi	ogrenim_turu_adi	bolum_adi_full	program_detay	is_onlisans_true_false	yerlesen_kadin_sayi_2025	yerlesen_kadin_oran_2025	yerlesen_erkek_sayi_2025	yerlesen_erkek_oran_2025	kayitli_toplam_sayi	kayitli_erkek_sayi	kayitli_erkek_oran	kayitli_kadin_sayi	kayitli_kadin_oran	kontenjan_2015	kontenjan_2016	kontenjan_2017	kontenjan_2018	kontenjan_2019	kontenjan_2020	kontenjan_2021	kontenjan_2022	kontenjan_2023	kontenjan_2024	kontenjan_2025	kontenjan_2026	siralama_2015	siralama_2016	siralama_2017	siralama_2018	siralama_2019	siralama_2020	siralama_2021	siralama_2022	siralama_2023	siralama_2024	siralama_2025
+
+
 
 ## İletişim
 
